@@ -1,0 +1,14 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+body {
+  background: white;
+}
+h1 {
+  font-weight: bold;
+  color: purple;
+}
+/*The {} was missing from the p configuration so we added them so then it works*/
+p{ 
+  color: gray;
+}
